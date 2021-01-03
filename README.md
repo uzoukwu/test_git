@@ -1,0 +1,1 @@
+This is Beatrice's first GIT project.
